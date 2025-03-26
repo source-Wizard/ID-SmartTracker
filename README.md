@@ -32,7 +32,7 @@ Camera Integration: OpenCV
 
 ![image alt](https://github.com/source-Wizard/ID-SmartTracker/blob/e09ba679ac15e64eb85593b53eafec962973f2c0/Screenshot%202025-03-01%20222633.png)
 
-![image alt]
+![image alt](https://github.com/source-Wizard/ID-SmartTracker/blob/a7d5cf7da479d1a96c7ddbe654908c650f2e611a/Screenshot%202025-03-01%20222912.png)
 
 ![image alt]
 
