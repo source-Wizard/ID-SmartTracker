@@ -1,7 +1,7 @@
 # ID-SmartTracker
 
 ID SmartTracker – Intelligent ID Verification System
-ID SmartTracker is a Java-based identity tracking system developed in NetBeans, using SQL database, a camera for face recognition, and QR code technology for authentication and attendance tracking.
+ID SmartTracker is a Java-based identity tracking system developed in NetBeans, using SQL database, a camera for (we can add this feature in future **face recognition**), and QR code technology for authentication and attendance tracking.
 
 Key Features:
 ✅ Generate QR Code – Creates unique QR codes for users.
