@@ -21,3 +21,5 @@ Database: MySQL
 QR Code Handling: ZXing Library
 
 Camera Integration: OpenCV
+
+![image alt]()
